@@ -1,4 +1,4 @@
-﻿# Final_Intership_TechnoLabs_END_TO_END_Mortgage_Risk 💡💡💡 
+﻿# Mortgage-Backed-Securities-Prepayment-risk-Predictor_internship-project 💡💡💡 
 
 
 
@@ -175,5 +175,5 @@ config: This directory contains configuration files for your project, such as en
 
 ## Contact
 
-For any questions or inquiries, please feel free to reach out to me via email at [simo.agrat1@gmail.com](mailto:simo.agrat1@gmail.com) 
-or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-agrat/).
+email : chaimaef475@gmail.com
+connect with me on [LinkedIn](https://www.linkedin.com/in/chaimae-elfathi/).
